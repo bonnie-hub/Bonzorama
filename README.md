@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Bonzorama
-- 👀 I’m interested in UX design and research
-- 🌱 I’m currently learning front-end dev
-- 💞️ I’m looking to collaborate on product and service design projects
+- 👋 Hi, I’m @bonnie-hub
+- 👀 I’m interested in product management
 - 📫 How to reach me bonnie.toupin@gmail.com
 
 <!---
